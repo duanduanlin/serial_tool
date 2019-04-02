@@ -5,8 +5,7 @@ Creat a simple toolbutton
 '''
 __author__ = 'Duanlin D'
 
-from PyQt5.QtWidgets import QApplication, QWidget, QToolButton, QMainWindow
-from PyQt5.QtGui import QIcon
+from PyQt5.QtWidgets import QApplication, QToolButton, QMainWindow
 from PyQt5.QtCore import Qt
 import sys
 

@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0bd085c-aa04-4906-bd3e-8260b9041435" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pyQt5_test/close.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyQt5_test/pyQt5_test03_toolbutton.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyQt5_test/pyQt5_test04_colordialog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyQt5_test/pyQt5_test04_filedialog.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyQt5_test/pyQt5_test03_pushbutton.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyQt5_test/pyQt5_test03_pushbutton.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyQt5_test/pyQt5_test03_toolbutton.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyQt5_test/pyQt5_test03_toolbutton.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,14 +39,68 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pyQt5_test/pyQt5_test02.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+              <folding>
+                <element signature="e#99#218#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pyQt5_test/pyQt5_test03_toolbutton.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+            <state>
+              <caret selection-end-line="5" selection-end-column="24" />
               <folding>
                 <element signature="e#103#178#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pyQt5_test/pyQt5_test04_filedialog.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="5" selection-end-column="24" />
+              <folding>
+                <element signature="e#103#210#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pyQt5_test/pyQt5_test04_colordialog.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="166">
+              <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
+              <folding>
+                <element signature="e#103#208#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1049311108/PyQt5/QtWidgets/QFrame.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="224" column="7" selection-start-line="224" selection-start-column="4" selection-end-line="224" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1049311108/PyQt5/QtWidgets/QFileDialog.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="101">
+              <caret line="146" column="28" selection-start-line="146" selection-start-column="8" selection-end-line="146" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -77,6 +131,8 @@
       <list>
         <option value="$PROJECT_DIR$/pyQt5_test/pyQt5_test03_pushbutton.py" />
         <option value="$PROJECT_DIR$/pyQt5_test/pyQt5_test03_toolbutton.py" />
+        <option value="$PROJECT_DIR$/pyQt5_test/pyQt5_test04_filedialog.py" />
+        <option value="$PROJECT_DIR$/pyQt5_test/pyQt5_test04_colordialog.py" />
       </list>
     </option>
   </component>
@@ -86,7 +142,9 @@
     <option name="width" value="1400" />
     <option name="height" value="794" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -133,7 +191,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pyQt5_test03_toolbutton">
+  <component name="RunManager" selected="Python.pyQt5_test04_colordialog">
     <configuration name="pyQt5_test02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="serial_tool" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -197,8 +255,52 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pyQt5_test04_colordialog" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="serial_tool" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyQt5_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyQt5_test/pyQt5_test04_colordialog.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pyQt5_test04_filedialog" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="serial_tool" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyQt5_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyQt5_test/pyQt5_test04_filedialog.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pyQt5_test04_colordialog" />
+        <item itemvalue="Python.pyQt5_test04_filedialog" />
         <item itemvalue="Python.pyQt5_test03_toolbutton" />
         <item itemvalue="Python.pyQt5_test03_pushbutton" />
         <item itemvalue="Python.pyQt5_test02" />
@@ -266,16 +368,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pyQt5_test/pyQt5_test02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" selection-end-column="24" />
-          <folding>
-            <element signature="e#99#218#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1049311108/PyQt5/QtWidgets/QWidget.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="139">
@@ -300,12 +392,56 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pyQt5_test/pyQt5_test02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+          <folding>
+            <element signature="e#99#218#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pyQt5_test/pyQt5_test03_toolbutton.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+        <state>
+          <caret selection-end-line="5" selection-end-column="24" />
           <folding>
             <element signature="e#103#178#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1049311108/PyQt5/QtWidgets/QFileDialog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="146" column="28" selection-start-line="146" selection-start-column="8" selection-end-line="146" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyQt5_test/pyQt5_test04_filedialog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="24" />
+          <folding>
+            <element signature="e#103#210#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1049311108/PyQt5/QtWidgets/QFrame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="224" column="7" selection-start-line="224" selection-start-column="4" selection-end-line="224" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyQt5_test/pyQt5_test04_colordialog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
+          <folding>
+            <element signature="e#103#208#0" expanded="true" />
           </folding>
         </state>
       </provider>
