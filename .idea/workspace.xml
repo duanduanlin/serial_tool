@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0bd085c-aa04-4906-bd3e-8260b9041435" name="Default Changelist" comment="" />
+    <list default="true" id="a0bd085c-aa04-4906-bd3e-8260b9041435" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pyQt5_test/close.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyQt5_test/pyQt5_test03_toolbutton.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyQt5_test/pyQt5_test03_pushbutton.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyQt5_test/pyQt5_test03_pushbutton.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,12 +14,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/serial_tool.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="152">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="e#99#109#0" expanded="true" />
               </folding>
@@ -22,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pyQt5_test/pyQt5_test03_pushbutton.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="22" column="34" lean-forward="true" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+            <state relative-caret-position="95">
+              <caret line="17" column="44" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="44" />
               <folding>
                 <element signature="e#103#165#0" expanded="true" />
               </folding>
@@ -34,38 +39,60 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pyQt5_test/pyQt5_test02.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pyQt5_test/pyQt5_test03_toolbutton.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="5" selection-end-column="24" />
+            <state relative-caret-position="261">
+              <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
               <folding>
-                <element signature="e#99#218#0" expanded="true" />
+                <element signature="e#103#178#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1049311108/PyQt5/QtWidgets/QMainWindow.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="311" column="8" selection-start-line="311" selection-start-column="8" selection-end-line="311" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pyQt5_test/pyQt5_test03_pushbutton.py" />
+        <option value="$PROJECT_DIR$/pyQt5_test/pyQt5_test03_toolbutton.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="10" />
+    <option name="x" value="84" />
+    <option name="y" value="41" />
     <option name="width" value="1400" />
-    <option name="height" value="820" />
+    <option name="height" value="794" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -82,14 +109,15 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ddl\workspace\serial_tool\pyQt5_test" />
       <recent name="E:\ddl\workspace\serial_tool" />
     </key>
   </component>
@@ -105,7 +133,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pyQt5_test03_pushbutton">
+  <component name="RunManager" selected="Python.pyQt5_test03_toolbutton">
     <configuration name="pyQt5_test02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="serial_tool" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,8 +176,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pyQt5_test03_toolbutton" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="serial_tool" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyQt5_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyQt5_test/pyQt5_test03_toolbutton.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pyQt5_test03_toolbutton" />
         <item itemvalue="Python.pyQt5_test03_pushbutton" />
         <item itemvalue="Python.pyQt5_test02" />
       </list>
@@ -169,42 +219,50 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="10" width="1400" height="820" extended-state="0" />
+    <frame x="84" y="41" width="1400" height="794" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496329" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496329" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32994187" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4992658" visible="true" weight="0.32829046" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007342" side_tool="true" weight="0.32896653" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/serial_tool.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#99#109#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-1049311108/PyQt5/QtWidgets/QApplication.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-1049311108/PyQt5/QtGui/QIcon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2033">
+          <caret line="126" column="8" selection-start-line="126" selection-start-column="8" selection-end-line="126" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serial_tool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#99#109#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -218,19 +276,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-1049311108/PyQt5/QtGui/QIcon.py">
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1049311108/PyQt5/QtWidgets/QWidget.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2033">
-          <caret line="126" column="8" selection-start-line="126" selection-start-column="8" selection-end-line="126" selection-end-column="8" />
+        <state relative-caret-position="139">
+          <caret line="737" column="8" selection-start-line="737" selection-start-column="8" selection-end-line="737" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1049311108/PyQt5/QtWidgets/QMainWindow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="311" column="8" selection-start-line="311" selection-start-column="8" selection-end-line="311" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pyQt5_test/pyQt5_test03_pushbutton.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="22" column="34" lean-forward="true" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+        <state relative-caret-position="95">
+          <caret line="17" column="44" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="44" />
           <folding>
             <element signature="e#103#165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyQt5_test/pyQt5_test03_toolbutton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+          <folding>
+            <element signature="e#103#178#0" expanded="true" />
           </folding>
         </state>
       </provider>

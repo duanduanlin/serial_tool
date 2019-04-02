@@ -7,7 +7,6 @@ __author__ = 'Duanlin D'
 
 from PyQt5.QtWidgets import QApplication, QWidget, QPushButton
 from PyQt5.QtGui import QIcon
-from PyQt5.QtCore import Qt
 import sys
 
 class PushButton(QWidget):
@@ -20,7 +19,7 @@ class PushButton(QWidget):
 
         self.closeButton = QPushButton(self)
         self.closeButton.setText("Close")  # text
-        self.closeButton.setIcon(QIcon("close.png")) #icon
+        self.closeButton.setIcon(QIcon("close.jpg")) #icon
         self.closeButton.setShortcut('Ctrl+D') #shortcut key
         self.closeButton.clicked.connect(self.close)
         self.closeButton.setToolTip("Close the widget") #Tool tip
