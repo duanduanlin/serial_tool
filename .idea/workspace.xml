@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0bd085c-aa04-4906-bd3e-8260b9041435" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pyQt5_test/pyQt5_test08_defined_signal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyQt5_test/pyQt5_test09_layout.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyQt5_test/pyQt5_test08_defined_signal.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyQt5_test/pyQt5_test08_defined_signal.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,12 +63,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pyQt5_test/pyQt5_test08_defined_signal.py">
+        <entry file="file://$PROJECT_DIR$/pyQt5_test/pyQt5_test09_layout.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+            <state relative-caret-position="356">
+              <caret line="90" column="4" selection-start-line="90" selection-start-column="4" selection-end-line="90" selection-end-column="4" />
               <folding>
-                <element signature="e#221#231#0" expanded="true" />
+                <element signature="e#208#218#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -98,6 +99,7 @@
         <option value="$PROJECT_DIR$/pyQt5_test/pyQt5_test06_messagebox02.py" />
         <option value="$PROJECT_DIR$/pyQt5_test/pyQt5_test07_signal.py" />
         <option value="$PROJECT_DIR$/pyQt5_test/pyQt5_test08_defined_signal.py" />
+        <option value="$PROJECT_DIR$/pyQt5_test/pyQt5_test09_layout.py" />
       </list>
     </option>
   </component>
@@ -156,28 +158,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pyQt5_test08_defined_signal">
-    <configuration name="pyQt5_test05_inputdialog" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="serial_tool" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyQt5_test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyQt5_test/pyQt5_test05_inputdialog.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.pyQt5_test09_layout">
     <configuration name="pyQt5_test06_messagebox01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="serial_tool" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -262,13 +243,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pyQt5_test09_layout" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="serial_tool" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyQt5_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyQt5_test/pyQt5_test09_layout.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pyQt5_test09_layout" />
         <item itemvalue="Python.pyQt5_test08_defined_signal" />
         <item itemvalue="Python.pyQt5_test07_signal" />
         <item itemvalue="Python.pyQt5_test06_messagebox02" />
         <item itemvalue="Python.pyQt5_test06_messagebox01" />
-        <item itemvalue="Python.pyQt5_test05_inputdialog" />
       </list>
     </recent_temporary>
   </component>
@@ -318,19 +320,26 @@
       <option name="project" value="LOCAL" />
       <updated>1554291271436</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add pyqt5 test of self-defined signal">
+      <created>1554291971617</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1554291971617</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="35" y="40" width="1400" height="794" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49887133" visible="true" weight="0.2496329" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49887133" visible="true" weight="0.2496329" />
       <window_info id="Structure" order="1" sideWeight="0.5011287" side_tool="true" weight="0.2496329" />
       <window_info id="Favorites" order="2" sideWeight="0.5011287" side_tool="true" weight="0.2496329" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4992658" visible="true" weight="0.32829046" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4992658" visible="true" weight="0.32829046" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -350,7 +359,8 @@
     <MESSAGE value="add pyqt5 test of inputdilog" />
     <MESSAGE value="add pyqt5 test of messageboxdilog" />
     <MESSAGE value="add pyqt5 test of signal" />
-    <option name="LAST_COMMIT_MESSAGE" value="add pyqt5 test of signal" />
+    <MESSAGE value="add pyqt5 test of self-defined signal" />
+    <option name="LAST_COMMIT_MESSAGE" value="add pyqt5 test of self-defined signal" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-1049311108/PyQt5/QtWidgets/QApplication.py">
@@ -480,6 +490,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pyQt5_test/pyQt5_test08_defined_signal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+          <folding>
+            <element signature="e#221#231#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pyQt5_test/pyQt5_test07_signal.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -490,12 +510,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pyQt5_test/pyQt5_test08_defined_signal.py">
+    <entry file="file://$PROJECT_DIR$/pyQt5_test/pyQt5_test09_layout.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+        <state relative-caret-position="356">
+          <caret line="90" column="4" selection-start-line="90" selection-start-column="4" selection-end-line="90" selection-end-column="4" />
           <folding>
-            <element signature="e#221#231#0" expanded="true" />
+            <element signature="e#208#218#0" expanded="true" />
           </folding>
         </state>
       </provider>

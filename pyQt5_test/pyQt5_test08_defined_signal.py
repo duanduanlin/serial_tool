@@ -11,13 +11,13 @@ Creat a simple self defined signal example
 __author__ = 'Duanlin D'
 
 import sys
-from PyQt5.QtCore import pyqtSignal, QObject, Qt, pyqtSlot
+from PyQt5.QtCore import pyqtSignal, Qt
 from PyQt5.QtWidgets import QWidget, QApplication, QGroupBox, QPushButton, QLabel, QCheckBox, QSpinBox, QHBoxLayout, QComboBox, QGridLayout
 
 class SignalEmit(QWidget):
     helpSignal = pyqtSignal(str)
     printSignal = pyqtSignal(list)  # 声明一个多重载版本的信号，包括了一个带int和str类型参数的信号，以及带str参数的信号
-    previewSignal = pyqtSignal([int,str], [str])
+    previewSignal = pyqtSignal([int, str], [str])
 
     def __init__(self):
         super().__init__()
