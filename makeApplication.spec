@@ -2,7 +2,7 @@
 
 block_cipher = None
 
-a = Analysis(['serial_tool.py', ],
+a = Analysis(['serial_QT_tool.py', ],
         pathex=[r'E:\ddl\workspace\serial_tool'],
         binaries=None,
         datas=None,

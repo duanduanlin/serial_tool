@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0bd085c-aa04-4906-bd3e-8260b9041435" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/serial_QT_tool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SerialSettingLayout.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/serial_tool.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/serial_tool.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/makeApplication.spec" beforeDir="false" afterPath="$PROJECT_DIR$/makeApplication.spec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serial_QT_tool.py" beforeDir="false" afterPath="$PROJECT_DIR$/serial_QT_tool.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +22,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/serial_tool.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
+            <state relative-caret-position="-1753">
               <caret line="272" column="48" selection-start-line="272" selection-start-column="40" selection-end-line="272" selection-end-column="48" />
               <folding>
                 <element signature="e#73#84#0" expanded="true" />
@@ -31,20 +34,32 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/serial_QT_tool.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="175" column="34" selection-start-line="175" selection-start-column="34" selection-end-line="175" selection-end-column="34" />
+            <state relative-caret-position="158">
+              <caret line="117" column="11" selection-start-line="117" selection-start-column="11" selection-end-line="117" selection-end-column="11" />
               <folding>
-                <element signature="e#73#84#0" expanded="true" />
+                <element signature="e#100#110#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+        <entry file="file://$PROJECT_DIR$/SerialSettingLayout.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="-1020">
+              <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+              <folding>
+                <element signature="e#87#97#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/io.pyi">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="101">
+              <caret line="41" column="35" lean-forward="true" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -52,7 +67,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://D:/Python/Python37/Lib/threading.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
+            <state relative-caret-position="15865">
               <caret line="842" selection-start-line="842" selection-end-line="842" />
             </state>
           </provider>
@@ -61,7 +76,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1049311108/PyQt5/QtGui/QColor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
+            <state relative-caret-position="2717">
               <caret line="144" column="8" selection-start-line="144" selection-start-column="8" selection-end-line="144" selection-end-column="8" />
             </state>
           </provider>
@@ -70,7 +85,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1049311108/PyQt5/QtWidgets/QTextEdit.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
+            <state relative-caret-position="9253">
               <caret line="492" column="43" selection-start-line="492" selection-start-column="37" selection-end-line="492" selection-end-column="43" />
             </state>
           </provider>
@@ -79,7 +94,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1049311108/time.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
+            <state relative-caret-position="3097">
               <caret line="163" column="4" selection-start-line="163" selection-start-column="4" selection-end-line="163" selection-end-column="4" />
             </state>
           </provider>
@@ -88,7 +103,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://D:/Python/Python37/Lib/configparser.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
+            <state relative-caret-position="16929">
               <caret line="899" selection-start-line="899" selection-end-line="899" />
             </state>
           </provider>
@@ -97,15 +112,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/serial/serialjava.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="644">
+            <state relative-caret-position="2736">
               <caret line="144" column="17" selection-start-line="144" selection-start-column="17" selection-end-line="144" selection-end-column="17" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/settings/cfg.ini">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -120,13 +130,30 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>enable_serial_setting</find>
-      <find>start_qt_test</find>
       <find>setfont</find>
       <find>write</find>
       <find>timer</find>
       <find>readline</find>
       <find>start_qt</find>
       <find>timere</find>
+      <find>read_config</find>
+      <find>cfg_serial_dic</find>
+      <find>current_path</find>
+      <find>cfg_path</find>
+      <find>cfg_dir</find>
+      <find>conf_file_name</find>
+      <find>confParse</find>
+      <find>get_port_list</find>
+      <find>open_close_button_handle</find>
+      <find>refresh_button_handle</find>
+      <find>qt_test_button</find>
+      <find>get_serial_setting</find>
+      <find>save_config</find>
+      <find>serial_setting_groupBox</find>
+      <find>log_view_groupBox</find>
+      <find>QIcon</find>
+      <find>start_qt_test</find>
+      <find>is_serial_open</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -148,10 +175,12 @@
         <option value="$PROJECT_DIR$/pyQt5_test/pyQt5_test09_layout.py" />
         <option value="$PROJECT_DIR$/pyQt5_test/pyQt5_test10_viewtable.py" />
         <option value="$PROJECT_DIR$/makeApplication.spec.py" />
-        <option value="$PROJECT_DIR$/makeApplication.spec" />
         <option value="$PROJECT_DIR$/cfg.ini" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/serial_tool.py" />
+        <option value="$PROJECT_DIR$/makeApplication.spec" />
+        <option value="$PROJECT_DIR$/SerialSettingWidget.py" />
+        <option value="$PROJECT_DIR$/SerialSettingLayout.py" />
         <option value="$PROJECT_DIR$/serial_QT_tool.py" />
       </list>
     </option>
@@ -170,6 +199,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -191,14 +221,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -222,7 +251,7 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.serial_QT_tool">
-    <configuration name="pyQt5_test02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="SerialSettingWidget" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="serial_tool" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -230,11 +259,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyQt5_test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyQt5_test/pyQt5_test02.py" />
+      <option name="SCRIPT_NAME" value="E:\ddl\workspace\serial_tool\SerialSettingLayout.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -330,10 +359,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.serial_QT_tool" />
+        <item itemvalue="Python.SerialSettingWidget" />
         <item itemvalue="Python.serial_tool" />
         <item itemvalue="Python.pyQt5_test04_filedialog" />
         <item itemvalue="Python.pyQt5_test09_layout" />
-        <item itemvalue="Python.pyQt5_test02" />
       </list>
     </recent_temporary>
   </component>
@@ -453,7 +482,14 @@
       <option name="project" value="LOCAL" />
       <updated>1556279090762</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="add qt test tool">
+      <created>1556366414447</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1556366414447</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TodoView">
@@ -473,15 +509,15 @@
       <window_info id="Structure" order="1" sideWeight="0.5011287" side_tool="true" weight="0.2496329" />
       <window_info id="Favorites" order="2" sideWeight="0.5011287" side_tool="true" weight="0.2496329" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32980332" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4955947" weight="0.32829046" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49632892" visible="true" weight="0.39939487" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4955947" weight="0.32980332" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49192363" visible="true" weight="0.32829046" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4955947" weight="0.39939487" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32980332" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32980332" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32980332" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50367105" side_tool="true" visible="true" weight="0.39939487" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50807637" side_tool="true" visible="true" weight="0.32829046" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32980332" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -504,16 +540,10 @@
     <MESSAGE value="add logs saving function&#10;add serial error handle such as can't open com and com lost&#10;optimize log show add bytes decode" />
     <MESSAGE value="add input region,QtextEdit" />
     <MESSAGE value="add input region" />
-    <option name="LAST_COMMIT_MESSAGE" value="add input region" />
+    <MESSAGE value="add qt test tool" />
+    <option name="LAST_COMMIT_MESSAGE" value="add qt test tool" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1049311108/PyQt5/QtWidgets/QFrame.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4161">
-          <caret line="224" column="7" selection-start-line="224" selection-start-column="4" selection-end-line="224" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pyQt5_test/pyQt5_test06_messagebox02.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -644,13 +674,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/makeApplication.spec">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cfg.ini" />
     <entry file="file://$PROJECT_DIR$/cfg1.ini" />
     <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1049311108/PyQt5/QtGui/QFont.py">
@@ -678,13 +701,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="424">
           <caret line="213" column="8" selection-start-line="213" selection-start-column="8" selection-end-line="213" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/io.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -776,37 +792,65 @@
     <entry file="file://$PROJECT_DIR$/settings/cfg.ini">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python37/Lib/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15865">
+          <caret line="842" selection-start-line="842" selection-end-line="842" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1049311108/PyQt5/QtGui/QColor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2717">
+          <caret line="144" column="8" selection-start-line="144" selection-start-column="8" selection-end-line="144" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1049311108/PyQt5/QtWidgets/QTextEdit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9253">
+          <caret line="492" column="43" selection-start-line="492" selection-start-column="37" selection-end-line="492" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1049311108/time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3097">
+          <caret line="163" column="4" selection-start-line="163" selection-start-column="4" selection-end-line="163" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://D:/Python/Python37/Lib/configparser.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
+        <state relative-caret-position="16929">
           <caret line="899" selection-start-line="899" selection-end-line="899" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/serial/serialjava.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
+        <state relative-caret-position="2736">
           <caret line="144" column="17" selection-start-line="144" selection-start-column="17" selection-end-line="144" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1049311108/time.py">
+    <entry file="file://$PROJECT_DIR$/makeApplication.spec">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="163" column="4" selection-start-line="163" selection-start-column="4" selection-end-line="163" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1049311108/PyQt5/QtWidgets/QTextEdit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="492" column="43" selection-start-line="492" selection-start-column="37" selection-end-line="492" selection-end-column="43" />
+        <state relative-caret-position="57">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/serial_tool.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
+        <state relative-caret-position="-1753">
           <caret line="272" column="48" selection-start-line="272" selection-start-column="40" selection-end-line="272" selection-end-column="48" />
           <folding>
             <element signature="e#73#84#0" expanded="true" />
@@ -814,33 +858,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Python/Python37/Lib/threading.py">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/io.pyi">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="842" selection-start-line="842" selection-end-line="842" />
+        <state relative-caret-position="101">
+          <caret line="41" column="35" lean-forward="true" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1049311108/PyQt5/QtGui/QColor.py">
+    <entry file="file://$PROJECT_DIR$/SerialSettingLayout.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="144" column="8" selection-start-line="144" selection-start-column="8" selection-end-line="144" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="-1020">
+          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+          <folding>
+            <element signature="e#87#97#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/serial_QT_tool.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="175" column="34" selection-start-line="175" selection-start-column="34" selection-end-line="175" selection-end-column="34" />
+        <state relative-caret-position="158">
+          <caret line="117" column="11" selection-start-line="117" selection-start-column="11" selection-end-line="117" selection-end-column="11" />
           <folding>
-            <element signature="e#73#84#0" expanded="true" />
+            <element signature="e#100#110#0" expanded="true" />
           </folding>
         </state>
       </provider>
